@@ -1,0 +1,10 @@
+{
+  "name": "Surat Minta Maaf Tulus",
+  "description": "Website permintaan maaf yang tulus dan interaktif untuk mengungkapkan penyesalan di masa lalu.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
